@@ -614,6 +614,7 @@ body._lock {
   transition: all 0.3s ease 0s;
 }
 .item-case__description {
+  color: var(--bg-color);
   margin-bottom: 30px;
 }
 
